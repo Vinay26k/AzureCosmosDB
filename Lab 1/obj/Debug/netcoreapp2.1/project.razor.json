@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\v-vinayk\\OneDrive - Microsoft\\Azure Cosmos DB Lab\\AzureCosmosDB\\Lab 1\\Lab 1.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

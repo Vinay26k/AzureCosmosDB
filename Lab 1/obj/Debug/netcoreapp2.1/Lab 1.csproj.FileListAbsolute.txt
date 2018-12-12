@@ -1,0 +1,33 @@
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.deps.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.dev.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.pdb
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csprojAssemblyReference.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfoInputs.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfo.cs
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.pdb
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.deps.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.dev.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.pdb
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csprojAssemblyReference.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfoInputs.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfo.cs
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\Practice Labs\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.pdb
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.deps.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.runtimeconfig.dev.json
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\bin\Debug\netcoreapp2.1\Lab 1.pdb
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csprojAssemblyReference.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfoInputs.cache
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.AssemblyInfo.cs
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.dll
+C:\Users\v-vinayk\OneDrive - Microsoft\Azure Cosmos DB Lab\AzureCosmosDB\Lab 1\obj\Debug\netcoreapp2.1\Lab 1.pdb
